@@ -2,7 +2,16 @@
 #include<fstream>
 using namespace std;
 int main(){
-	
+	----------------------------------------------
+              vishalingle7873@gmail.com
+		Vishalingle@12345
+
+		**********
+		
+
+
+		
+		--------------------------------------------------------------
 	
 	ofstream file("new.txt");             //creating file
 	file<<"My name is MAULI"<<endl;           //writing in file
